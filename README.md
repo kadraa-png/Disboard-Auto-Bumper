@@ -1,7 +1,7 @@
 # Disboard-Auto-Bumper
 Requirements:
-Python 3.9x
+Python 3.9x 
 https://www.python.org/downloads/
 
-Discord.py
+Discord.py 
 pip install discord
